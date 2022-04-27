@@ -1,5 +1,5 @@
 package FIFA22;
-/*Haciendo cambios cristhian*/
+/*Añadiendo comentarios cristhian*/
 public class Liga {
 private int cod_liga;
 private String nombre;
